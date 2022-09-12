@@ -5,6 +5,5 @@ module.exports = [
 	'unreleased versions',
 	'not op_mini all',
 	'not samsung > 0',
-	'not dead',
-	'node 18'
+	'not dead'
 ]
