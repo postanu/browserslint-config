@@ -1,6 +1,6 @@
 {
   "name": "@postanu/browserslist-config",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Browserslist shareable config for Postanu",
   "author": "Eduard Aksamitov <e@euaaaio.ru>",
   "license": "MIT",
